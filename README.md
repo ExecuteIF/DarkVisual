@@ -1,1 +1,2 @@
 # DarkVisual
+OpenCV env. REQUIRED!!!
